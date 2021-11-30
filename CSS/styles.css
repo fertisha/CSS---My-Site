@@ -61,7 +61,10 @@ p {
   position: relative;
   padding-top: 100px;
 }
-
+.mountain {
+  position: relative;
+  top: 4px;
+}
 .bottom-cloud {
   position: absolute;
   right: 300px;
